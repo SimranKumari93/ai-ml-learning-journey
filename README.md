@@ -6,9 +6,12 @@ I’ll be documenting concepts, notes, and code snippets as I progress.
 ## Daily Progress  
 
 ### Day 1  
-- Introduction to Machine Learning  
-- Supervised vs Unsupervised Learning  
-- Linear Regression basics  
+| Lecture | Description | Notes |
+|---------|-------------|-------|
+| Introduction to Machine Learning | Supervised Machine Learning: Regression and Classification | [Notes](https://notion.so/your-link-1) |
+| Advanced Learning Algorithms | Advanced Learning Algorithms | [Notes](https://notion.so/your-link-2) |
+| Unsupervised Learning, Recommenders, Reinforcement Learning | Unsupervised Learning, Recommenders, Reinforcement Learning | [Notes](https://notion.so/your-link-3) |
+  
 
 ### Day 2  
 - Gradient Descent  
