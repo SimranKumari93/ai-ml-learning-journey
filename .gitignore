@@ -1,1 +1,4 @@
 venv/
+Study Material 
+__pycache__/
+*.pyc
