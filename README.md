@@ -12,9 +12,9 @@ I’ll be documenting concepts, notes, and code snippets as I progress.
 ### Day 2  
 | Lecture | Description | Notes | Date | 
 |---------|-------------|-------|------|
-| Introduction to Machine Learning | Supervised Machine Learning: Regression and Classification | [Notes](https://www.notion.so/ai-ml-learning-journey-27b635033efd808596d8d0fd84cb1ddd?showMoveTo=true&saveParent=true) | 27/09/2025 |
-| Advanced Learning Algorithms | Advanced Learning Algorithms | [Notes](https://notion.so/your-link-2) | 27/09/2025 |
-| Unsupervised Learning, Recommenders, Reinforcement Learning | Unsupervised Learning, Recommenders, Reinforcement Learning | [Notes](https://notion.so/your-link-3) | 27/09/2025 |
+| Feature Selection in ML | Using Pandas iloc | [Notes](https://www.notion.so/ai-ml-learning-journey-27b635033efd808596d8d0fd84cb1ddd?showMoveTo=true&saveParent=true) | 28/09/2025 |
+| Preprocessing Data | Building X and Y vectors | [Notes](https://notion.so/your-link-2) | 28/09/2025 |
+| Handling missing values | SimpleImputer, OneHotEncoding | [Notes](https://notion.so/your-link-3) | 28/09/2025 |
 
 ### Day 3  
 - Multivariate Linear Regression  
