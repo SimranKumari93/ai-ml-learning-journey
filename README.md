@@ -17,13 +17,12 @@ I’ll be documenting concepts, notes, and code snippets as I progress.
 | Multiple Linear Regression  | Multicollinearity, Homoscedasticity, Multivariate Normality | [Notes](https://notion.so/your-link-3) | 28/09/2025 |
 
 ### Day 3  
-- Multivariate Linear Regression  
-- Feature Scaling & Normalization  
-- Learning Rate impact  
+| Lecture | Description | Notes | Date | 
+|---------|-------------|-------|------|
+| Understanding P - Values | Using Pandas iloc, Building X and Y vectors | [Notes](https://www.notion.so/ai-ml-learning-journey-27b635033efd808596d8d0fd84cb1ddd?showMoveTo=true&saveParent=true) | 29/09/2025 |
+| Methods of building a model   | Training Predicting Plotting, Assumption | [Notes](https://notion.so/your-link-2) | 29/09/2025 |
+| Multiple Linear Regression  | Multicollinearity, Homoscedasticity, Multivariate Normality | [Notes](https://notion.so/your-link-3) | 29/09/2025 |
 
-*(...will keep updating daily)*  
-
----
 
 ## Resources  
 - [Andrew Ng’s ML Course](https://www.coursera.org/learn/machine-learning)  
