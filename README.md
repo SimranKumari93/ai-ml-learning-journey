@@ -21,7 +21,15 @@ I’ll be documenting concepts, notes, and code snippets as I progress.
 |---------|-------------|-------|------|
 | Understanding P - Values | Using Pandas iloc, Building X and Y vectors | [Notes](https://www.notion.so/ai-ml-learning-journey-27b635033efd808596d8d0fd84cb1ddd?showMoveTo=true&saveParent=true) | 29/09/2025 |
 | Methods of building a model   | Training Predicting Plotting, Assumption | [Notes](https://notion.so/your-link-2) | 29/09/2025 |
-| Multiple Linear Regression  | Multicollinearity, Homoscedasticity, Multivariate Normality | [Notes](https://notion.so/your-link-3) | 29/09/2025 |
+| Multiple Linear Regression  | Multicollinearity, Homoscedasticity, Multivariate Normality | [Notes](https://notion.so/your-link-3) | 29/09/2025 | 
+
+### Day 4  
+| Lecture | Description | Notes | Date | 
+|---------|-------------|-------|------|
+| Introduction to Machine Learning | Supervised ML: Regression and Classification | [Notes](https://www.notion.so/ai-ml-learning-journey-27b635033efd808596d8d0fd84cb1ddd?showMoveTo=true&saveParent=true) | 27/09/2025 |
+| Data Preprocessing | Importing, Modeling, Evaluating | [Notes](https://notion.so/your-link-2) | 27/09/2025 |
+| Feature Scaling | Normalization & Standardization key features | [Notes](https://notion.so/your-link-3) | 27/09/2025 |
+
 
 
 ## Resources  
