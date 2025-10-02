@@ -24,7 +24,7 @@ I’ll be documenting concepts, notes, and code snippets as I progress.
 | Multiple Linear Regression  | Multicollinearity, Homoscedasticity, Multivariate Normality | [Notes](https://notion.so/your-link-3) | 29/09/2025 | 
 
 ### Day 4  
-| Lecture | Description | Notes | Date | 
+| Lecture 4 | Description | Notes | Date | 
 |---------|-------------|-------|------|
 | Polynomial Regression | Implementation, Need, Real world Use cases | [Notes](https://www.notion.so/ai-ml-learning-journey-27b635033efd808596d8d0fd84cb1ddd?showMoveTo=true&saveParent=true) | 27/09/2025 |
 | ML Fundamentals | Building linear & polynomial regression | [Notes](https://notion.so/your-link-2) | 27/09/2025 |
