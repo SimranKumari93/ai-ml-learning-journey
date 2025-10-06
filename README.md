@@ -58,6 +58,7 @@ I’ll be documenting concepts, notes, and code snippets as I progress.
 | Data Preprocessing | Importing, Modeling, Evaluating | [Notes](https://notion.so/your-link-2) | 27/09/2025 |
 | Feature Scaling | Normalization & Standardization key features | [Notes](https://notion.so/your-link-3) | 27/09/2025 |
 
+Non-linear Relationships
 ## Resources  
 - [Andrew Ng’s ML Course](https://www.coursera.org/learn/machine-learning)  
 - Personal Notes (coming soon)  
